@@ -2,7 +2,7 @@
 
 <h3>Meu nome é Allana, mas pode me chamar de Laninha</h3>
   
-<br />
+---
 
 ### **Quem sou eu?**
   <div align="center">
