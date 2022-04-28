@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&lines=Prazer%2C+Wellington+Rodrigues;Seja+Bem-vindo(a)+ao+meu+perfil)](https://git.io/typing-svg)
 <h1 align="center">Oi 👋, Meu nome é Allana</h1>
 <h3 align="center">Sou estudante de desenvolvimento Web Full stack na Trybe</h3>
 
