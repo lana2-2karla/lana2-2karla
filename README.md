@@ -1,7 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=indie+flower&size=25&duration=4500&color=84000B&multiline=true&width=600&height=41&lines=Olá%2C+Muito+prazer+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3>Meu nome é Allana, mas pode me chamar de Laninha. Sou estudante de desenvolvimento Web Full Stack na Trybe</h3>
+<h3>Meu nome é Allana, mas pode me chamar de Laninha</h3>
+  
+<br />
 
+### **Quem sou eu?**
+  <div align="center">
+  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+  <div align="left" style="display: inline_block">
+    <li>- :star2: Apaixonada por tecnologia e entusiasta da literátura oriental<li>
+    <li>- :mortar_board: Atualmente, estudante de Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
+    <li>- :pushpin: Meu foco principal: Back-End</li>
+    <li>- 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
+    <li>- ⚡ Interesses extras: mercado financeiro e desenvolvimento blockchain</li>
+    <li>- :rainbow: Uma frase: Ao dar um passo a cada dia, a pergunta sempre deixa de ser "Será que vou aprender?" e passa a ser "Quando vou aprender?"!!
+  </div>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lana2-2karla&label=Profile%20views&color=0e75b6&style=flat" alt="lana2-2karla" /> </p>
 
 <h3 align="left">Connect with me:</h3>
