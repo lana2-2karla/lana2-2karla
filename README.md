@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=indie+flower&size=25&duration=4500&color=84000B&multiline=true&width=600&height=41&lines=Olá%2C+Muito+prazer+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3>Meu nome é Allana, mas pode me chamar de Laninha</h3>
+<h3>Meu nome é Allana, mas pode me chamar de Laninha :smile:</h3>
   
 ---
 
@@ -16,6 +16,8 @@
     <li>- :rainbow: Uma frase: Ao dar um passo a cada dia, a pergunta sempre deixa de ser "Será que vou aprender?" e passa a ser "Quando vou aprender?"!!
   </div>
 </div>
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lana2-2karla&label=Profile%20views&color=0e75b6&style=flat" alt="lana2-2karla" /> </p>
 
 <h3 align="left">Connect with me:</h3>
