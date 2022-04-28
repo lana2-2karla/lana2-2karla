@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&lines=Oii+👋%2C+Meu+nome+é+Allana+mas+pode+me+chamar+de+Laninha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&lines=Oii+👋%2C+Meu+nome+é+Allana;Mas+pode+me+chamar+de+Laninha)](https://git.io/typing-svg)
 <h3 align="center">Sou estudante de desenvolvimento Web Full stack na Trybe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lana2-2karla&label=Profile%20views&color=0e75b6&style=flat" alt="lana2-2karla" /> </p>
