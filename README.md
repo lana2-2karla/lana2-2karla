@@ -8,11 +8,12 @@
   <div align="center">
   <div align="left" style="display: inline_block">
     <li> :star2: Apaixonada por tecnologia e entusiasta da literátura oriental,<li>
+    <li> oiii <li>
     <li> :mortar_board: Atualmente, estudante de Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>,</li>
     <li> :pushpin: Meu foco principal: Back-End,</li>
     <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas,</li>
     <li> ⚡ Interesses extras: mercado financeiro e desenvolvimento blockchain,</li>
-    <li> :rainbow: Mode: Um passo de cada vez e a pergunta deixará de ser 'Será que vou aprender?' e passar a ser 'Quando vou aprender?'.
+    <li> :rainbow: Mode: Um passo de cada vez e a pergunta deixará de ser 'Será que vou aprender?' e passar a ser 'Quando vou aprender?'
   </div>
 </div>
 
