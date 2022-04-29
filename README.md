@@ -28,7 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lana2-2karla&show_icons=true&locale=en&layout=compact" alt="lana2-2karla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lana2-2karla&show_icons=true&locale=en" alt="lana2-2karla" /></p>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lana2-2karla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
 
