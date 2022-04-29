@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=indie+flower&size=25&duration=4500&color=84000B&multiline=true&width=600&height=41&lines=Olá%2C+Muito+prazer+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=indie+flower&size=25&duration=4500&color=2FC18C&multiline=true&width=600&height=41&lines=Olá%2C+Muito+prazer+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h3>Meu nome é Allana, mas pode me chamar de Laninha :smile:</h3>
   
@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lana2-2karla&show_icons=true&locale=en&layout=compact&true&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="lana2-2karla" /></p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lana2-2karla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lana2-2karla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lana2-2karla&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="lana2-2karla" />
 
