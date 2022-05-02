@@ -62,7 +62,7 @@
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lana2-2karla&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="lana2-2karla" />
   
-  <br/>
+  <br />
   
 ---
 <h3 align="left">Vamos nos conectar?</h3>
