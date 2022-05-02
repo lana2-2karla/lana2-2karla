@@ -55,7 +55,7 @@
 
 ---
 <h3>Estatística:</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lana2-2karla&show_icons=true&locale=en&layout=compact&true&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="lana2-2karla" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lana2-2karla&show_icons=true&locale=en&layout=compact&true&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="lana2-2karla" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lana2-2karla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
