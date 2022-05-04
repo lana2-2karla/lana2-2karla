@@ -7,7 +7,7 @@
 ### **Quem sou eu?**
   <div align="center">
   <div align="left" style="display: inline_block">
-    <li> :star2: Apaixonada por tecnologia e entusiasta da literatura oriental,<li>
+    <li> :star2: Apaixonada por tecnologia e entusiasta da literatura oriental,</li>
     <li> :mortar_board: Atualmente, estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>,</li>
     <li> :pushpin: Meu foco principal: Back-End,</li>
     <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas,</li>
