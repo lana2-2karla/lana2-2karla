@@ -12,7 +12,7 @@
     <li> :pushpin: Meu foco principal: Back-End,</li>
     <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas,</li>
     <li> ⚡ Interesses extras: mercado financeiro e desenvolvimento blockchain,</li>
-    <li> :rainbow: Uma frase: Só porque você não conhece algo, não significa que não exista!!
+    <li> :rainbow: Uma frase: Só porque você não conhece, não significa que não exista!!
   </div>
 </div>
 
