@@ -11,7 +11,7 @@
     <li> :mortar_board: Atualmente, estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>,</li>
     <li> :pushpin: Meu foco principal: Back-End,</li>
     <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas,</li>
-    <li> ⚡ Interesses extras: mercado financeiro e desenvolvimento blockchain,</li>
+    <li> ⚡ Interesses extras: Python e AWS,</li>
     <li> :rainbow: Uma frase: "Só porque você não conhece, não significa que não exista"
   </div>
 </div>
@@ -51,19 +51,22 @@
   </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
 </p>
 
 ---
+
 <h3>Estatística:</h3>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lana2-2karla&show_icons=true&locale=en&layout=compact&true&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="lana2-2karla" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lana2-2karla&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="lana2-2karla" width="420" />
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lana2-2karla&show_icons=true&locale=en&layout=compact&true&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" alt="lana2-2karla" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lana2-2karla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lana2-2karla&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="lana2-2karla" />
-  
 ---
-<h3 align="left">Vamos nos conectar?</h3>
+
+<h3 >Vamos nos conectar?</h3>
 <div>
   <a href="https://www.linkedin.com/in/lana-karla/" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:allanakarla1702@gmail.com" align="left"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
