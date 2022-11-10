@@ -8,10 +8,10 @@
   <div align="center">
   <div align="left" style="display: inline_block">
     <li> :star2: Apaixonada por tecnologia e entusiasta da literatura oriental,</li>
-    <li> :mortar_board: Atualmente, estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>,</li>
-    <li> :pushpin: Meu foco principal: Back-End,</li>
+    <li> :mortar_board: Formada em Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>,</li>
+    <li> :pushpin: Meu foco principal: Dados,</li>
     <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas,</li>
-    <li> ⚡ Interesses extras: Python e AWS,</li>
+    <li> ⚡ Tecnologias em andamento: Python, Pandas, Django,</li>
     <li> :rainbow: Uma frase: "Só porque você não conhece, não significa que não exista"
   </div>
 </div>
@@ -53,6 +53,7 @@
   </a> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 ---
