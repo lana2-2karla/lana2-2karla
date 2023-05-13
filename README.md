@@ -9,7 +9,7 @@
   <div align="left" style="display: inline_block">
     <li> :star2: Apaixonada por tecnologia e entusiasta da literatura oriental,</li>
     <li> :mortar_board: Formada em Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>,</li>
-    <li> :pushpin: Meu foco principal: Dados,</li>
+    <li> :pushpin: Meu foco principal: Fullstack,</li>
     <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas,</li>
     <li> ⚡ Tecnologias em andamento: Python, Pandas, Django,</li>
     <li> :rainbow: Uma frase: "Só porque você não conhece, não significa que não exista"
